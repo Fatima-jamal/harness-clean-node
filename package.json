@@ -1,0 +1,8 @@
+{
+  "name": "harness-clean-node",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "echo 'Installing...'",
+    "test": "echo 'No tests' && exit 0"
+  }
+}
